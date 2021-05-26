@@ -12,7 +12,8 @@ export const technologies = [
   "Key Vault",
   "SQL Server",
   "Service Bus Queue",
-  "Event Grid"
+  "Event Grid",
+  "Test",
 ];
 
 export const solutionAreas = [
